@@ -1,0 +1,56 @@
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Application\Samadhi.Application\obj\Debug\Samadhi.Application.csprojResolveAssemblyReference.cache
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Application\Samadhi.Application\bin\Debug\Samadhi.Application.dll
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Application\Samadhi.Application\bin\Debug\Samadhi.Application.pdb
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Application\Samadhi.Application\bin\Debug\HtmlAgilityPack.dll
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Application\Samadhi.Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Application\Samadhi.Application\bin\Debug\Samadhi.Attack.Common.dll
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Application\Samadhi.Application\bin\Debug\Samadhi.Attack.Error.dll
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Application\Samadhi.Application\bin\Debug\Samadhi.Attack.XSS.dll
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Application\Samadhi.Application\bin\Debug\Samadhi.Common.Component.dll
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Application\Samadhi.Application\bin\Debug\Samadhi.Common.Data.dll
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Application\Samadhi.Application\bin\Debug\Samadhi.Data.dll
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Application\Samadhi.Application\bin\Debug\Samadhi.History.Controller.dll
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Application\Samadhi.Application\bin\Debug\Samadhi.History.Data.dll
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Application\Samadhi.Application\bin\Debug\System.Data.SQLite.dll
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Application\Samadhi.Application\bin\Debug\Samadhi.Attack.Common.pdb
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Application\Samadhi.Application\bin\Debug\Samadhi.Attack.Error.pdb
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Application\Samadhi.Application\bin\Debug\Samadhi.Attack.XSS.pdb
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Application\Samadhi.Application\bin\Debug\Samadhi.Common.Component.pdb
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Application\Samadhi.Application\bin\Debug\Samadhi.Common.Data.pdb
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Application\Samadhi.Application\bin\Debug\Samadhi.History.Controller.pdb
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Application\Samadhi.Application\bin\Debug\Samadhi.History.Data.pdb
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Application\Samadhi.Application\bin\Debug\Samadhi.Data.pdb
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Application\Samadhi.Application\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Application\Samadhi.Application\bin\Debug\HtmlAgilityPack.xml
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Application\Samadhi.Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Application\Samadhi.Application\obj\Debug\Samadhi.Application.dll
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Application\Samadhi.Application\obj\Debug\Samadhi.Application.pdb
+C:\Users\hogarth45\Desktop\Samadhi2\Application\Samadhi.Application\bin\Debug\Samadhi.Application.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Application\Samadhi.Application\bin\Debug\Samadhi.Application.pdb
+C:\Users\hogarth45\Desktop\Samadhi2\Application\Samadhi.Application\bin\Debug\HtmlAgilityPack.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Application\Samadhi.Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Application\Samadhi.Application\bin\Debug\Samadhi.Attack.Common.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Application\Samadhi.Application\bin\Debug\Samadhi.Attack.Error.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Application\Samadhi.Application\bin\Debug\Samadhi.Attack.XSS.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Application\Samadhi.Application\bin\Debug\Samadhi.Common.Component.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Application\Samadhi.Application\bin\Debug\Samadhi.Common.Data.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Application\Samadhi.Application\bin\Debug\Samadhi.Data.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Application\Samadhi.Application\bin\Debug\Samadhi.History.Controller.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Application\Samadhi.Application\bin\Debug\Samadhi.History.Data.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Application\Samadhi.Application\bin\Debug\System.Data.SQLite.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Application\Samadhi.Application\bin\Debug\Samadhi.Attack.Common.pdb
+C:\Users\hogarth45\Desktop\Samadhi2\Application\Samadhi.Application\bin\Debug\Samadhi.Attack.Error.pdb
+C:\Users\hogarth45\Desktop\Samadhi2\Application\Samadhi.Application\bin\Debug\Samadhi.Attack.XSS.pdb
+C:\Users\hogarth45\Desktop\Samadhi2\Application\Samadhi.Application\bin\Debug\Samadhi.Common.Component.pdb
+C:\Users\hogarth45\Desktop\Samadhi2\Application\Samadhi.Application\bin\Debug\Samadhi.Common.Data.pdb
+C:\Users\hogarth45\Desktop\Samadhi2\Application\Samadhi.Application\bin\Debug\Samadhi.History.Controller.pdb
+C:\Users\hogarth45\Desktop\Samadhi2\Application\Samadhi.Application\bin\Debug\Samadhi.History.Data.pdb
+C:\Users\hogarth45\Desktop\Samadhi2\Application\Samadhi.Application\bin\Debug\Samadhi.Data.pdb
+C:\Users\hogarth45\Desktop\Samadhi2\Application\Samadhi.Application\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\hogarth45\Desktop\Samadhi2\Application\Samadhi.Application\bin\Debug\HtmlAgilityPack.xml
+C:\Users\hogarth45\Desktop\Samadhi2\Application\Samadhi.Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hogarth45\Desktop\Samadhi2\Application\Samadhi.Application\obj\Debug\Samadhi.Application.csprojResolveAssemblyReference.cache
+C:\Users\hogarth45\Desktop\Samadhi2\Application\Samadhi.Application\obj\Debug\Samadhi.Application.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Application\Samadhi.Application\obj\Debug\Samadhi.Application.pdb
+C:\Users\hogarth45\Desktop\Samadhi2\Application\Samadhi.Application\bin\Debug\Core.SQLite.Accessor.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Application\Samadhi.Application\bin\Debug\Core.SQLite.Accessor.pdb

@@ -1,0 +1,18 @@
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Attacks\Samadhi.Attack.Common\bin\Debug\Samadhi.Attack.Common.dll
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Attacks\Samadhi.Attack.Common\bin\Debug\Samadhi.Attack.Common.pdb
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Attacks\Samadhi.Attack.Common\bin\Debug\Samadhi.Data.dll
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Attacks\Samadhi.Attack.Common\bin\Debug\Samadhi.History.Data.dll
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Attacks\Samadhi.Attack.Common\bin\Debug\Samadhi.Data.pdb
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Attacks\Samadhi.Attack.Common\bin\Debug\Samadhi.History.Data.pdb
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Attacks\Samadhi.Attack.Common\obj\Debug\Samadhi.Attack.Common.csprojResolveAssemblyReference.cache
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Attacks\Samadhi.Attack.Common\obj\Debug\Samadhi.Attack.Common.dll
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Attacks\Samadhi.Attack.Common\obj\Debug\Samadhi.Attack.Common.pdb
+C:\Users\hogarth45\Desktop\Samadhi2\Attacks\Samadhi.Attack.Common\bin\Debug\Samadhi.Attack.Common.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Attacks\Samadhi.Attack.Common\bin\Debug\Samadhi.Attack.Common.pdb
+C:\Users\hogarth45\Desktop\Samadhi2\Attacks\Samadhi.Attack.Common\bin\Debug\Samadhi.Data.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Attacks\Samadhi.Attack.Common\bin\Debug\Samadhi.History.Data.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Attacks\Samadhi.Attack.Common\bin\Debug\Samadhi.Data.pdb
+C:\Users\hogarth45\Desktop\Samadhi2\Attacks\Samadhi.Attack.Common\bin\Debug\Samadhi.History.Data.pdb
+C:\Users\hogarth45\Desktop\Samadhi2\Attacks\Samadhi.Attack.Common\obj\Debug\Samadhi.Attack.Common.csprojResolveAssemblyReference.cache
+C:\Users\hogarth45\Desktop\Samadhi2\Attacks\Samadhi.Attack.Common\obj\Debug\Samadhi.Attack.Common.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Attacks\Samadhi.Attack.Common\obj\Debug\Samadhi.Attack.Common.pdb

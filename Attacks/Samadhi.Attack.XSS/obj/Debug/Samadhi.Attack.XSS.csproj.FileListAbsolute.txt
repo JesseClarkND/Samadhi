@@ -1,0 +1,22 @@
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Attacks\Samadhi.Attack.XSS\bin\Debug\Samadhi.Attack.XSS.dll
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Attacks\Samadhi.Attack.XSS\bin\Debug\Samadhi.Attack.XSS.pdb
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Attacks\Samadhi.Attack.XSS\bin\Debug\Samadhi.Attack.Common.dll
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Attacks\Samadhi.Attack.XSS\bin\Debug\Samadhi.Data.dll
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Attacks\Samadhi.Attack.XSS\bin\Debug\Samadhi.History.Data.dll
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Attacks\Samadhi.Attack.XSS\bin\Debug\Samadhi.Data.pdb
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Attacks\Samadhi.Attack.XSS\bin\Debug\Samadhi.History.Data.pdb
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Attacks\Samadhi.Attack.XSS\bin\Debug\Samadhi.Attack.Common.pdb
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Attacks\Samadhi.Attack.XSS\obj\Debug\Samadhi.Attack.XSS.csprojResolveAssemblyReference.cache
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Attacks\Samadhi.Attack.XSS\obj\Debug\Samadhi.Attack.XSS.dll
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Attacks\Samadhi.Attack.XSS\obj\Debug\Samadhi.Attack.XSS.pdb
+C:\Users\hogarth45\Desktop\Samadhi2\Attacks\Samadhi.Attack.XSS\bin\Debug\Samadhi.Attack.XSS.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Attacks\Samadhi.Attack.XSS\bin\Debug\Samadhi.Attack.XSS.pdb
+C:\Users\hogarth45\Desktop\Samadhi2\Attacks\Samadhi.Attack.XSS\bin\Debug\Samadhi.Attack.Common.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Attacks\Samadhi.Attack.XSS\bin\Debug\Samadhi.Data.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Attacks\Samadhi.Attack.XSS\bin\Debug\Samadhi.History.Data.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Attacks\Samadhi.Attack.XSS\bin\Debug\Samadhi.Data.pdb
+C:\Users\hogarth45\Desktop\Samadhi2\Attacks\Samadhi.Attack.XSS\bin\Debug\Samadhi.History.Data.pdb
+C:\Users\hogarth45\Desktop\Samadhi2\Attacks\Samadhi.Attack.XSS\bin\Debug\Samadhi.Attack.Common.pdb
+C:\Users\hogarth45\Desktop\Samadhi2\Attacks\Samadhi.Attack.XSS\obj\Debug\Samadhi.Attack.XSS.csprojResolveAssemblyReference.cache
+C:\Users\hogarth45\Desktop\Samadhi2\Attacks\Samadhi.Attack.XSS\obj\Debug\Samadhi.Attack.XSS.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Attacks\Samadhi.Attack.XSS\obj\Debug\Samadhi.Attack.XSS.pdb

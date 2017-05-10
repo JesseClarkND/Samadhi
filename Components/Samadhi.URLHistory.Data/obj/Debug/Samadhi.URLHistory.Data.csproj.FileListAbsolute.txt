@@ -1,0 +1,5 @@
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Components\Samadhi.URLHistory.Data\bin\Debug\Samadhi.History.Data.dll
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Components\Samadhi.URLHistory.Data\bin\Debug\Samadhi.History.Data.pdb
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Components\Samadhi.URLHistory.Data\obj\Debug\Samadhi.URLHistory.Data.csprojResolveAssemblyReference.cache
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Components\Samadhi.URLHistory.Data\obj\Debug\Samadhi.History.Data.dll
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Components\Samadhi.URLHistory.Data\obj\Debug\Samadhi.History.Data.pdb

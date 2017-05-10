@@ -1,0 +1,6 @@
+C:\Users\hogarth45\Desktop\Samadhi2\Core\Core.SQLite\Core.SQLite.Accessor\obj\Debug\Core.SQLite.Accessor.csprojResolveAssemblyReference.cache
+C:\Users\hogarth45\Desktop\Samadhi2\Core\Core.SQLite\Core.SQLite.Accessor\bin\Debug\Core.SQLite.Accessor.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Core\Core.SQLite\Core.SQLite.Accessor\bin\Debug\Core.SQLite.Accessor.pdb
+C:\Users\hogarth45\Desktop\Samadhi2\Core\Core.SQLite\Core.SQLite.Accessor\bin\Debug\System.Data.SQLite.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Core\Core.SQLite\Core.SQLite.Accessor\obj\Debug\Core.SQLite.Accessor.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Core\Core.SQLite\Core.SQLite.Accessor\obj\Debug\Core.SQLite.Accessor.pdb

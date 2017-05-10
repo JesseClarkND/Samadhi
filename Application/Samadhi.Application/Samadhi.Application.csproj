@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{03207993-153A-4315-8C28-07321095DA6B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Samadhi.Application</RootNamespace>
+    <AssemblyName>Samadhi.Application</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="HtmlAgilityPack">
+      <HintPath>..\..\packages\HtmlAgilityPack.1.4.9.5\lib\Net45\HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\packages\Newtonsoft.Json.6.0.8\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite">
+      <HintPath>..\..\dlls\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Attacker\AttackTester.cs" />
+    <Compile Include="Attacker\CreateAttackURLs.cs" />
+    <Compile Include="Crawler\Crawler.cs" />
+    <Compile Include="Crawler\CrawlerContext.cs" />
+    <Compile Include="Crawler\LinkParser.cs" />
+    <Compile Include="Initialize.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utility\AttackURLGenerator.cs" />
+    <Compile Include="Utility\EventLimiter.cs" />
+    <Compile Include="Utility\GetDomain.cs" />
+    <Compile Include="Utility\SessionFileContext.cs" />
+    <Compile Include="Utility\SessionFileHandler.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Attacks\Samadhi.Attack.Common\Samadhi.Attack.Common.csproj">
+      <Project>{f17dba84-d2e4-42ee-b6e7-2b2fef18333b}</Project>
+      <Name>Samadhi.Attack.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Attacks\Samadhi.Attack.Error\Samadhi.Attack.Error.csproj">
+      <Project>{a080443c-fbc3-4e7f-b1f6-263f3a073682}</Project>
+      <Name>Samadhi.Attack.Error</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Attacks\Samadhi.Attack.XSS\Samadhi.Attack.XSS.csproj">
+      <Project>{f77f036e-e29a-4d9f-9ad4-1cc31454b43d}</Project>
+      <Name>Samadhi.Attack.XSS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Components\Samadhi.Settings.Component\Samadhi.Common.Component.csproj">
+      <Project>{971600b2-117c-4e38-ad6f-66232bac3051}</Project>
+      <Name>Samadhi.Common.Component</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Components\Samadhi.Settings.Data\Samadhi.Common.Data.csproj">
+      <Project>{48b67c18-b9b2-4a71-9f06-276b95272e7b}</Project>
+      <Name>Samadhi.Common.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Components\Samadhi.URLHistory.Controller\Samadhi.History.Controller.csproj">
+      <Project>{897f6966-857b-48fe-a812-0d8ca489264e}</Project>
+      <Name>Samadhi.History.Controller</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Components\Samadhi.URLHistory.Data\Samadhi.History.Data.csproj">
+      <Project>{a4a2818a-20dc-4da2-88de-8f31ba8abdd1}</Project>
+      <Name>Samadhi.History.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Core\Core.SQLite\Core.SQLite.Accessor\Core.SQLite.Accessor.csproj">
+      <Project>{3ef0f4a4-28fe-4cbe-8325-c6c1d2ea2055}</Project>
+      <Name>Core.SQLite.Accessor</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Samadhi.Data\Samadhi.Data.csproj">
+      <Project>{310cc4fd-ee7e-40fd-9e20-0585540c114f}</Project>
+      <Name>Samadhi.Data</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

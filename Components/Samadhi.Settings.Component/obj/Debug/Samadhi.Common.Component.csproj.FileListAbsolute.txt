@@ -1,0 +1,18 @@
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Components\Samadhi.Settings.Component\bin\Debug\Samadhi.Common.Component.dll
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Components\Samadhi.Settings.Component\bin\Debug\Samadhi.Common.Component.pdb
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Components\Samadhi.Settings.Component\bin\Debug\Samadhi.Common.Data.dll
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Components\Samadhi.Settings.Component\bin\Debug\System.Data.SQLite.dll
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Components\Samadhi.Settings.Component\bin\Debug\Samadhi.Common.Data.pdb
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Components\Samadhi.Settings.Component\obj\Debug\Samadhi.Common.Component.csprojResolveAssemblyReference.cache
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Components\Samadhi.Settings.Component\obj\Debug\Samadhi.Common.Component.dll
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Components\Samadhi.Settings.Component\obj\Debug\Samadhi.Common.Component.pdb
+C:\Users\hogarth45\Desktop\Samadhi2\Components\Samadhi.Settings.Component\bin\Debug\Samadhi.Common.Component.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Components\Samadhi.Settings.Component\bin\Debug\Samadhi.Common.Component.pdb
+C:\Users\hogarth45\Desktop\Samadhi2\Components\Samadhi.Settings.Component\bin\Debug\Samadhi.Common.Data.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Components\Samadhi.Settings.Component\bin\Debug\System.Data.SQLite.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Components\Samadhi.Settings.Component\bin\Debug\Samadhi.Common.Data.pdb
+C:\Users\hogarth45\Desktop\Samadhi2\Components\Samadhi.Settings.Component\obj\Debug\Samadhi.Common.Component.csprojResolveAssemblyReference.cache
+C:\Users\hogarth45\Desktop\Samadhi2\Components\Samadhi.Settings.Component\obj\Debug\Samadhi.Common.Component.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Components\Samadhi.Settings.Component\obj\Debug\Samadhi.Common.Component.pdb
+C:\Users\hogarth45\Desktop\Samadhi2\Components\Samadhi.Settings.Component\bin\Debug\Core.SQLite.Accessor.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Components\Samadhi.Settings.Component\bin\Debug\Core.SQLite.Accessor.pdb

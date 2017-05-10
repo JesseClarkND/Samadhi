@@ -1,0 +1,9 @@
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Application\Samadhi.Data\bin\Debug\Samadhi.Data.dll
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Application\Samadhi.Data\bin\Debug\Samadhi.Data.pdb
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Application\Samadhi.Data\obj\Debug\Samadhi.Data.dll
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Application\Samadhi.Data\obj\Debug\Samadhi.Data.pdb
+C:\Users\hogarth45\Desktop\Samadhi2\Application\Samadhi.Data\bin\Debug\Samadhi.Data.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Application\Samadhi.Data\bin\Debug\Samadhi.Data.pdb
+C:\Users\hogarth45\Desktop\Samadhi2\Application\Samadhi.Data\obj\Debug\Samadhi.Data.csprojResolveAssemblyReference.cache
+C:\Users\hogarth45\Desktop\Samadhi2\Application\Samadhi.Data\obj\Debug\Samadhi.Data.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Application\Samadhi.Data\obj\Debug\Samadhi.Data.pdb

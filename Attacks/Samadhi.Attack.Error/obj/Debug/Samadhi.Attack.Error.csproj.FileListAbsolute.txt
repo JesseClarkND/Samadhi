@@ -1,0 +1,22 @@
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Attacks\Samadhi.Attack.Error\bin\Debug\Samadhi.Attack.Error.dll
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Attacks\Samadhi.Attack.Error\bin\Debug\Samadhi.Attack.Error.pdb
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Attacks\Samadhi.Attack.Error\bin\Debug\Samadhi.Attack.Common.dll
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Attacks\Samadhi.Attack.Error\bin\Debug\Samadhi.Data.dll
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Attacks\Samadhi.Attack.Error\bin\Debug\Samadhi.History.Data.dll
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Attacks\Samadhi.Attack.Error\bin\Debug\Samadhi.Data.pdb
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Attacks\Samadhi.Attack.Error\bin\Debug\Samadhi.History.Data.pdb
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Attacks\Samadhi.Attack.Error\bin\Debug\Samadhi.Attack.Common.pdb
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Attacks\Samadhi.Attack.Error\obj\Debug\Samadhi.Attack.Error.csprojResolveAssemblyReference.cache
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Attacks\Samadhi.Attack.Error\obj\Debug\Samadhi.Attack.Error.dll
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Attacks\Samadhi.Attack.Error\obj\Debug\Samadhi.Attack.Error.pdb
+C:\Users\hogarth45\Desktop\Samadhi2\Attacks\Samadhi.Attack.Error\bin\Debug\Samadhi.Attack.Error.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Attacks\Samadhi.Attack.Error\bin\Debug\Samadhi.Attack.Error.pdb
+C:\Users\hogarth45\Desktop\Samadhi2\Attacks\Samadhi.Attack.Error\bin\Debug\Samadhi.Attack.Common.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Attacks\Samadhi.Attack.Error\bin\Debug\Samadhi.Data.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Attacks\Samadhi.Attack.Error\bin\Debug\Samadhi.History.Data.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Attacks\Samadhi.Attack.Error\bin\Debug\Samadhi.Data.pdb
+C:\Users\hogarth45\Desktop\Samadhi2\Attacks\Samadhi.Attack.Error\bin\Debug\Samadhi.History.Data.pdb
+C:\Users\hogarth45\Desktop\Samadhi2\Attacks\Samadhi.Attack.Error\bin\Debug\Samadhi.Attack.Common.pdb
+C:\Users\hogarth45\Desktop\Samadhi2\Attacks\Samadhi.Attack.Error\obj\Debug\Samadhi.Attack.Error.csprojResolveAssemblyReference.cache
+C:\Users\hogarth45\Desktop\Samadhi2\Attacks\Samadhi.Attack.Error\obj\Debug\Samadhi.Attack.Error.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Attacks\Samadhi.Attack.Error\obj\Debug\Samadhi.Attack.Error.pdb

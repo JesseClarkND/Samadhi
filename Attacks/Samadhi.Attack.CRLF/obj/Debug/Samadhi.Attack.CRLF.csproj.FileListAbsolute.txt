@@ -1,0 +1,8 @@
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Attacks\Samadhi.Attack.CRLF\bin\Debug\Samadhi.Attack.CRLF.dll
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Attacks\Samadhi.Attack.CRLF\bin\Debug\Samadhi.Attack.CRLF.pdb
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Attacks\Samadhi.Attack.CRLF\obj\Debug\Samadhi.Attack.CRLF.dll
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Samadhi2\Attacks\Samadhi.Attack.CRLF\obj\Debug\Samadhi.Attack.CRLF.pdb
+C:\Users\hogarth45\Desktop\Samadhi2\Attacks\Samadhi.Attack.CRLF\bin\Debug\Samadhi.Attack.CRLF.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Attacks\Samadhi.Attack.CRLF\bin\Debug\Samadhi.Attack.CRLF.pdb
+C:\Users\hogarth45\Desktop\Samadhi2\Attacks\Samadhi.Attack.CRLF\obj\Debug\Samadhi.Attack.CRLF.dll
+C:\Users\hogarth45\Desktop\Samadhi2\Attacks\Samadhi.Attack.CRLF\obj\Debug\Samadhi.Attack.CRLF.pdb
